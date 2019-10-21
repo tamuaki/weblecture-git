@@ -1,1 +1,1 @@
-echo 'Hello, World'
+echo "Run in $(uname -s)"
